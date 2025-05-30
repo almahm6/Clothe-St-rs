@@ -33,12 +33,7 @@
         width: 100%;}
       .nav-button 
   {text-align: center;}
-    </style>
-  </head>
-  <body>
-    <header>   
-      </div>
-    </header>
+
 <BODY Bgcolor="grey" </bgcolor>
 
     <h1> CLOTHE- </h1>
