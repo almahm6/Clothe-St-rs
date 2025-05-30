@@ -42,7 +42,7 @@
 <BODY Bgcolor="grey" </bgcolor>
 
     <h1> CLOTHE- </h1>
-<h1> <p style="text-align: right;">ST☆R</p> </h1>
+<h1> <p style="text-align:right;">ST☆R</p</h1>
 <button onclick="location.href= '0.0html.html'"> ⋆♱INICIO♱⋆ </button>
 <button onclick="location.href= '0html.html'"> ⋆♱HOMBRES♱⋆ </button>
  <button onclick="location.href= '1html.html'"> ⋆♱MUJERES♱⋆ </button>
