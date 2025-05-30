@@ -33,6 +33,13 @@
         width: 100%;}
       .nav-button 
   {text-align: center;}
+    </style>
+  </head>
+  <body>
+    <header>   
+      </div>
+    </header>
+<BODY Bgcolor="grey" </bgcolor>
 
     <h1> CLOTHE- </h1>
 <h1> <p style="text-align: right;">ST☆R</p> </h1>
@@ -43,6 +50,7 @@
  <button onclick="location.href= '3html.html'"> ⋆♱CALZADO♱⋆ </button>
  <button onclick="location.href= '4html.html'"> ⋆♱ACCESORIOS♱⋆ </button>
 <button onclick="location.href= '6html.html'"> ⋆♱PROYECTO DE LECTURA♱⋆ </button>
+    <div></div>
 <br>
 <img src="Portada.jpg" width="400" height="500">
 <p> CREA TU PROPIO ESTILO</p>
